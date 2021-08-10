@@ -1,1 +1,2 @@
-This is forth file
+This is forth file and it is modified
+and cloned
